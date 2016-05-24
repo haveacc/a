@@ -1,34 +1,19 @@
  {  "domain":  [ "szzd1.abc.org", "szzd2.bcd.net", "szzd3.def.com"],
  
-    "article": { "title": [ "是自焚还是骗局",
-                            "真相报道（1）",
-                            "真相报道（2）"
-                          ],
-                  "url":  [ "/a04/b37/2016-05-22/1078.html",
-                            "/?yvq=BG9jyWxoB3N0Ojk5OS9hMDEVyja1MS8YMDE2LTa1LTIYLzEwNjyuAHRtBa",
-                            "/?yvq=BG9jyWxoB3N0Ojk5OS9hMjIVyjI3LzIwMTytMDUtMTkVMTazNi5odG1s"
-                          ]
-               },
+    "article": [ { "title": "是自焚还是骗局", "url": "/a04/b37/2016-05-22/1078.html" },
+                 { "title": "真相报道（1）", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMDEVyja1MS8YMDE2LTa1LTIYLzEwNjyuAHRtBa" },
+                 { "title": "真相报道（2）", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMjIVyjI3LzIwMTytMDUtMTkVMTazNi5odG1s" }
+               ],
+
+    "video":   [ { "title": "是自焚还是骗局", "url": "/a04/b37/2016-05-22/1078.html" },
+                 { "title": "真相报道（1）", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMDEVyja1MS8YMDE2LTa1LTIYLzEwNjyuAHRtBa" },
+                 { "title": "真相报道（2）", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMjIVyjI3LzIwMTytMDUtMTkVMTazNi5odG1s" }
+               ],
                
-    "video":     { "title": [ "是自焚还是骗局",
-                              "真相报道（1）",
-                              "真相报道（2）"
-                            ],
-                    "url":  [ "/a04/b37/2016-05-22/1078.html",
-                              "/?yvq=BG9jyWxoB3N0Ojk5OS9hMDEVyja1MS8YMDE2LTa1LTIYLzEwNjyuAHRtBa",
-                              "/?yvq=BG9jyWxoB3N0Ojk5OS9hMjIVyjI3LzIwMTytMDUtMTkVMTazNi5odG1s"
-                            ]
-                 },
-               
-    "software":  { "title": [ "自由门7.58版下载",
-                              "无界浏览15.04下载",
-                              "手机翻墙软件下载"
-                            ],
-                    "url":  [ "/zym",
-                              "/wj",
-                              "/mobile"
-                            ]
-                 },
+    "software": [ { "title": "自由门7.58版下载", "url": "/zym" },
+                  { "title": "无界浏览15.04下载", "url": "/wj" },
+                  { "title": "手机翻墙软件下载", "url": "/mobile" }
+                ],
                  
      "tui":     { "url": "/tui/" }
      
