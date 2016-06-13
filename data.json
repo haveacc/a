@@ -29,9 +29,9 @@
                
     "website": { "name": "网址导航",
                  "value": [ 
-                            { "title": "动态网", "url": "/zym" },
-                            { "title": "明慧网", "url": "/wj" },
-                            { "title": "新唐人", "url": "/mobile" }
+                            { "title": "法轮大法明慧网", "url": "/7/" },
+                            { "title": "动态网", "url": "/1/" },
+                            { "title": "新唐人电视台", "url": "/3/" }
                           ]
                },
  
