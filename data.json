@@ -27,6 +27,22 @@
                           ]
                },
                
+    "website": { "name": "网址导航",
+                 "value": [ 
+                            { "title": "动态网", "url": "/zym" },
+                            { "title": "明慧网", "url": "/wj" },
+                            { "title": "新唐人", "url": "/mobile" }
+                          ]
+               },
+ 
+     "others": { "name": "",
+                 "value": [ 
+                            { "title": "", "url": "" },
+                            { "title": "", "url": "" },
+                            { "title": "", "url": "" }
+                          ]
+               },              
+               
         "tui": { "url": "/tui/" }
      
  }               
