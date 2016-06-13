@@ -41,7 +41,11 @@ var feed_data = {
                             { "title": "", "url": "" },
                             { "title": "", "url": "" }
                           ]
-               },              
+               },
+               
+    "contact": { "name": "联系我们",
+                 "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9jB250yWN0Lmh0BWw"
+               },                
                
         "tui": { "url": "/tui/" }
      
