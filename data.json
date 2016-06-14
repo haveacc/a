@@ -47,7 +47,9 @@
                  "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9jB250yWN0Lmh0BWw"
                },               
                
-        "tui": { "url": "/tui/" }
+        "tui": { "url": "/tui/",
+                 "value": "c2hlbnpob3V6aGVuZ2Rhby5vcmc="
+               }
      
  }               
                  
