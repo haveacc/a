@@ -2,6 +2,10 @@
     "domain":  { "name": "当前域名", 
                  "value": [ "YzNwNlpDNXFZVzFsY25OdmJpNXZjbWM9", "YzNwNlpDNWtiM0poTnpjdVkyOXQ=", "YzNwNlpDNXBZMmxrZDJWaUxtTnZiUT09"]
                },
+               
+   "shorturl": { "name": "短网址", 
+                 "value": [ "http://t.cn/R5xYRnX", "http://t.cn/R5SL8tR"]
+               },             
  
     "article": { "name": "最新文章", 
                  "value": [
