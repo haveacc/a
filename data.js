@@ -2,6 +2,10 @@ var feed_data = {
     "domain":  { "name": "当前域名", 
                  "value": [ "YzNwNlpDNXFZVzFsY25OdmJpNXZjbWM9", "YzNwNlpDNWtiM0poTnpjdVkyOXQ=", "YzNwNlpDNXBZMmxrZDJWaUxtTnZiUT09"]
                },
+               
+   "shorturl": { "name": "短网址", 
+                 "value": [ "t.cn/R5xYRnX", "t.cn/R5SL8tR"]
+               },             
  
     "article": { "name": "最新文章", 
                  "value": [
@@ -56,4 +60,4 @@ var feed_data = {
                  "value": "c2hlbnpob3V6aGVuZ2Rhby5vcmc="
                }
      
- }               
+} 
