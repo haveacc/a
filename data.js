@@ -1,6 +1,7 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "YzNwNlpDNXFZVzFsY25OdmJpNXZjbWM9", "YzNwNlpDNWtiM0poTnpjdVkyOXQ=", "YzNwNlpDNXBZMmxrZDJWaUxtTnZiUT09"]
+                 "value": [ "YzNwNlpDNXFZVzFsY25OdmJpNXZjbWM9", "YzNwNlpDNWtiM0poTnpjdVkyOXQ=", "YzNwNlpDNXBZMmxrZDJWaUxtTnZiUT09"],
+                 "fq": "YzNwNlpDNXBZMmxrZDJWaUxtTnZiUT09"
                },
                
    "shorturl": { "name": "短网址", 
@@ -53,7 +54,8 @@ var feed_data = {
                }, 
                
     "contact": { "name": "联系我们",
-                 "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9jB250yWN0Lmh0BWw"
+                 "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9jB250yWN0Lmh0BWw",
+                 "email": "Wm1WbFpHSmhZMnRBYzJobGJucG9iM1Y2YUdWdVoyUmhieTV2Y21jPQ=="
                },               
                
         "tui": { "url": "/999/",
