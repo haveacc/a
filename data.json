@@ -1,6 +1,7 @@
  {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "YzNwNlpDNXFZVzFsY25OdmJpNXZjbWM9", "YzNwNlpDNWtiM0poTnpjdVkyOXQ=", "YzNwNlpDNXBZMmxrZDJWaUxtTnZiUT09"]
+                 "value": [ "YzNwNlpDNXFZVzFsY25OdmJpNXZjbWM9", "YzNwNlpDNWtiM0poTnpjdVkyOXQ=", "YzNwNlpDNXBZMmxrZDJWaUxtTnZiUT09"],
+                 "fq": "YzNwNlpDNXBZMmxrZDJWaUxtTnZiUT09"
                },
                
    "shorturl": { "name": "短网址", 
