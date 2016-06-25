@@ -63,7 +63,8 @@
                },
                
     "version": { "ver": "1.23",
-                 "url": "https://git.io/abcde"
+                 "url": "https://git.io/abcde",
+                 "sha1": "34CBA13208B31F6E78D96D91FC6D648921AEA0B0"
                } 
      
  }               
