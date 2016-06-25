@@ -60,7 +60,11 @@
                
         "tui": { "url": "/999/",
                  "value": "c2hlbnpob3V6aGVuZ2Rhby5vcmc="
-               }
+               },
+               
+    "version": { "ver": "1.23",
+                 "url": "https://git.io/abcde"
+               } 
      
  }               
                  
