@@ -62,7 +62,7 @@ var feed_data = {
                  "value": "c2hlbnpob3V6aGVuZ2Rhby5vcmc="
                },
                
-    "version": { "ver": "1.24",
+    "version": { "ver": "1.23",
                  "url": "https://git.io/abcde",
                  "sha1": "34CBA13208B31F6E78D96D91FC6D648921AEA0B0"
                } 
