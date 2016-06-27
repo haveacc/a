@@ -58,13 +58,18 @@ var feed_data = {
                  "email": "Wm1WbFpHSmhZMnRBYzJobGJucG9iM1Y2YUdWdVoyUmhieTV2Y21jPQ=="
                },               
                
+    "copyright":{ "txt": "&copy; 2015-2016 &#x795E;&#x5DDE;&#x6B63;&#x9053;",
+                 "domain": "ZDNkM0xuTm9aVzU2YUc5MWVtaGxibWRrWVc4dWIzSm4="
+                },                 
+               
         "tui": { "url": "/999/",
                  "value": "c2hlbnpob3V6aGVuZ2Rhby5vcmc="
                },
                
-    "version": { "ver": "1.23",
+    "version": { "ver": "1.24",
                  "url": "https://git.io/abcde",
-                 "sha1": "34CBA13208B31F6E78D96D91FC6D648921AEA0B0"
+                 "sha1": "34CBA13208B31F6E78D96D91FC6D648921AEA0B0",
+                 "sha512": "9A14E7C22ECCAEED8FAB6109F36E171BC0715296DE239B3AC66F7920E1DBC04E3F7DAF49E5B864EFB0701CA86023443AE50F03B3C39B8E798E1AE7ED2820C2E8"
                } 
      
 } 
