@@ -46,7 +46,7 @@
  
      "others": { "name": "神州营救",
                  "value": [ 
-                            { "title": "紧急营救", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMTgVyjIzLw" },
+                            { "title": "紧急营救", "url": "/19/" },
                             { "title": "黑龙江营救", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMTgVyjIzLw" },
                             { "title": "山东营救", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMTgVyjIzLw" },
                             { "title": "更多内容...", "url": "/" }
