@@ -46,11 +46,11 @@ var feed_data = {
  
      "others": { "name": "神州营救",
                  "value": [ 
-                            { "title": "紧急营救", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMTgVyjIzLw" },
-                            { "title": "黑龙江营救", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMTgVyjIzLw" },
-                            { "title": "山东营救", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMTgVyjIzLw" },
-                            { "title": "更多内容...", "url": "/" }
-                          ]
+                            { "title": "紧急营救", "url": "/19/" },
+                            { "title": "黑龙江营救", "url": "/?yvq=eWo3MjauymxVZ3NwB3qudHcVc2vhcmNoL2xhymvsLYvFNSU4NSvCMYvFNivCMYvbOCvFOSvCqiU5MSvFOSvCRSU5OSvFNivCMSU5RivFOCvCRivbqivFNSvbRSvCMw" },
+                            { "title": "山东营救", "url": "/?yvq=eWo3MjauymxVZ3NwB3qudHcVc2vhcmNoL2xhymvsLYvFNSU4NSvCMYvFNivCMYvbOCvFNSvCMSvCMSvFNCvCOCU5qYvFOCvCRivbqivFNSvbRSvCMw" },
+                            { "title": "更多内容...", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMTgVyjIzLw" }
+                         ]
                }, 
                
     "contact": { "name": "联系我们",
