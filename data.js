@@ -10,19 +10,19 @@ var feed_data = {
  
     "article": { "name": "最新文章", 
                  "value": [
-                           { "title": "世纪骗局 天安门自焚伪案揭秘", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMTgVyjqwLzIwMTytMDUtMjyVMTExNi5odG1s" },
-                           { "title": "佛法修炼你知道多少？", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMjIVyjI1LzIwMTytMDUtMTEVOTIwLmh0BWw" },
-                           { "title": "宇宙本身就是一个生命", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMjIVyjI1LzIwMTytMDUtMTqVOTc5Lmh0BWw" },
+                           { "title": "世纪骗局 天安门自焚伪案揭秘", "url": "/70" },
+                           { "title": "佛法修炼你知道多少？", "url": "/71" },
+                           { "title": "宇宙本身就是一个生命", "url": "/72" },
                            { "title": "更多文章...", "url": "/" }
                           ]
                },
                
      "video":  { "name": "精彩视频", 
                  "value": [
-                           { "title": "是自焚还是骗局", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hNzqVyjMVMjaxNi0wNC0zMC83ODquAHRtBa" },
-                           { "title": "古今奇观-藏字石", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hNzqVyjMVMjaxNi0wNC0zMC83ODUuAHRtBa" },
-                           { "title": "【九评之一】评共产党是什么", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMjgVyjMwLzIwMTytMDEtMTyVMTc5Lmh0BWw" },
-                           { "title": "更多视频...", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hNzqVyjMV" }
+                           { "title": "是自焚还是骗局", "url": "/73" },
+                           { "title": "古今奇观-藏字石", "url": "/74" },
+                           { "title": "【九评之一】评共产党是什么", "url": "/75" },
+                           { "title": "更多视频...", "url": "/76" }
                           ]
                },
                
@@ -54,7 +54,7 @@ var feed_data = {
                }, 
                
     "contact": { "name": "联系我们",
-                 "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9jB250yWN0Lmh0BWw",
+                 "url": "/78",
                  "email": "Wm1WbFpHSmhZMnRBYzJobGJucG9iM1Y2YUdWdVoyUmhieTV2Y21jPQ=="
                },               
                
