@@ -28,10 +28,10 @@
                
     "software":{ "name": "翻墙软件",
                  "value": [ 
-                            { "title": "电脑版翻墙软件", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9jB250yWN0Lmh0BWw" },
-                            { "title": "无界浏览15.04下载", "url": "/wj" },
-                            { "title": "手机版翻墙软件", "url": "/mobile" },
-                            { "title": "更多软件...", "url": "/" }
+                            { "title": "电脑版翻墙软件", "url": "/13" },
+                            { "title": "无界浏览下载", "url": "/11" },
+                            { "title": "手机版翻墙软件", "url": "/77" },
+                            { "title": "更多软件...", "url": "/78" }
                           ]
                },
                
