@@ -8,7 +8,7 @@
                  "value": [ "ZEM1amJpOVNOWGhaVW01WQ==", "ZEM1amJpOVNOVk5NT0hSUw=="]
                },             
  
-    "article":  "article": { "name": "最新文章", 
+    "article": { "name": "最新文章", 
                  "value": [
                            { "title": "世纪骗局 天安门自焚伪案揭秘", "url": "/70" },
                            { "title": "佛法修炼你知道多少？", "url": "/71" },
@@ -67,9 +67,9 @@
                },
                
     "version": { "ver": "1.24",
-                 "url": "https://git.io/abcde",
-                 "sha1": "34CBA13208B31F6E78D96D91FC6D648921AEA0B0",
-                 "sha512": "9A14E7C22ECCAEED8FAB6109F36E171BC0715296DE239B3AC66F7920E1DBC04E3F7DAF49E5B864EFB0701CA86023443AE50F03B3C39B8E798E1AE7ED2820C2E8"
+                 "url": "http://jmp.sh/wYoh3g4",
+                 "sha1": "A2FBCE8A9E7CD7B025FA6C63596AA69BCC27597C",
+                 "sha512": "252E7C90196A73A4BE1D6A8FF579FFB0731A044B6DC5A9FB20247F997C97A647FC8830A9408F8D1F35FB77340D0CF509C0B54A511549D07C93264D95348A888F"
                } 
      
  }               
