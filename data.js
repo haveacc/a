@@ -48,8 +48,8 @@ var feed_data = {
                  "value": [ 
                             { "title": "紧急营救", "url": "/19/" },
                             { "title": "黑龙江营救", "url": "/?yvq=eWo3MjauymxVZ3NwB3qudHcVc2vhcmNoL2xhymvsLYvFNSU4NSvCMYvFNivCMYvbOCvFOSvCqiU5MSvFOSvCRSU5OSvFNivCMSU5RivFOCvCRivbqivFNSvbRSvCMw" },
-                            { "title": "山东营救", "url": "/?yvq=eWo3MjauymxVZ3NwB3qudHcVc2vhcmNoL2xhymvsLYvFNSU4NSvCMYvFNivCMYvbOCvFNSvCMSvCMSvFNCvCOCU5qYvFOCvCRivbqivFNSvbRSvCMw" },
-                            { "title": "更多内容...", "url": "/?yvq=BG9jyWxoB3N0Ojk5OS9hMTgVyjIzLw" }
+                            { "title": "山东营救", "url": "/?yvq=eWo3Mjauymfaq.phpxVZ3NwB3qudHcVc2vhcmNoL2xhymvsLYvFNSU4NSvCMYvFNivCMYvbOCvFNSvCMSvCMSvFNCvCOCU5qYvFOCvCRivbqivFNSvbRSvCMw" },
+                            { "title": "更多内容...", "url": "/faq.php" }
                          ]
                }, 
                
@@ -62,7 +62,7 @@ var feed_data = {
                  "domain": "ZDNkM0xuTm9aVzU2YUc5MWVtaGxibWRrWVc4dWIzSm4="
                 },                 
                
-        "tui": { "url": "/999/",
+        "tui": { "url": "/10",
                  "value": "c2hlbnpob3V6aGVuZ2Rhby5vcmc="
                },
                
