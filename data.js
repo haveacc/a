@@ -1,11 +1,11 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "YUdWbWMyRXVhR1ZtYzJGM0xtTm0=", "WjJSbFpYUXVaMlJsWlhSMWFYVXVZMlk9", "YUdkb1pHVXVhR2RvWkdWeWRDNXRiQT09"],
-                 "fq": "Y25SbGNtY3VjblJsY21keGFtc3VaM0U9"
+                 "value": [ "YzJSbVlXUXVjMlJtWVdSbUxtMXM=", "WkdabGRHb3VaR1psZEdwblptb3VZMlk9", "YUdkb1pHVXVhR2RvWkdWeWRDNXRiQT09"],
+                 "fq": "ZEdkeWFtc3VkR2R5YW10emNYY3VaM0U9"
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZFhKc0xtTnVMelEwTkhacGNVRT0=", "ZFhKc0xtTnVMelEwTkZodlFqRT0=", "ZFhKc0xtTnVMelEwTkdSVVpsST0="]
+                 "value": [ "ZEM1amJpOVNlSGN6TWxGTA==", "ZFhKc0xtTnVMelEwTkhKU1drST0=", "ZFhKc0xtTnVMelEwTkhacGNVRT0="]
                },             
  
     "article": { "name": "最新文章", 
