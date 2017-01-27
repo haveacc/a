@@ -1,13 +1,13 @@
 {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "aaaaa", "aaaaa", "aaaaa"],
-                 "fq": "aaaaa"
+                 "value": [ "Wm1Selp5NXhkVzVvWWk1bmNRPT0=", "Wm1Selp5NXhkVzVvWWk1bmNRPT0=", "Wm1Selp5NXhkVzVvWWk1bmNRPT0="],
+                 "fq": "Wm1Selp5NXhkVzVvWWk1bmNRPT0="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "bbbbb", "bbbbb", "bbbbb"]
-               },             
- 
+                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVrMWxlRTlzZGc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrMWxlRTlzZGc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrMWxlRTlzZGc9PQ=="]
+               },   
+
     "article": { "name": "最新文章", 
                  "value": [
                            { "title": "世纪骗局 天安门自焚伪案揭秘", "url": "/70" },
