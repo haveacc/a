@@ -1,13 +1,13 @@
-{  
+ {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "Wm1Selp5NXhkVzVvWWk1bmNRPT0=", "Wm1Selp5NXhkVzVvWWk1bmNRPT0=", "Wm1Selp5NXhkVzVvWWk1bmNRPT0="],
-                 "fq": "Wm1Selp5NXhkVzVvWWk1bmNRPT0="
+                 "value": [ "YkdGdk1UUTJMakE1TlM1bmIzUXRaMkZ0WlM1dmNtYz0=", "TnpVM0xuSmxaR2x5WldOMGJXVXVibVYw", "ZW1GcE16VXVOVEEwTG0xeWMyeHZkbVV1WTI5dA=="],
+                 "fq": "YzNwNlpDNXBZMmxrZDJWaUxtTnZiUT09"
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "YUhSMGNEb3ZMM1F1WTI0dlVrMWxlRTlzZGc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrMWxlRTlzZGc9PQ==", "YUhSMGNEb3ZMM1F1WTI0dlVrMWxlRTlzZGc9PQ=="]
-               },   
-
+                 "value": [ "ZEM1amJpOVNZM2hoYzNGTw==", "ZEM1amJpOVNZM2hUUVVKVw==", "ZEM1amJpOVNZM2hUTkVWcg=="]
+               },             
+ 
     "article": { "name": "最新文章", 
                  "value": [
                            { "title": "世纪骗局 天安门自焚伪案揭秘", "url": "/70" },
@@ -73,4 +73,5 @@
                  "sha512": "252E7C90196A73A4BE1D6A8FF579FFB0731A044B6DC5A9FB20247F997C97A647FC8830A9408F8D1F35FB77340D0CF509C0B54A511549D07C93264D95348A888F"
                } 
      
- }     
+ }               
+                 
